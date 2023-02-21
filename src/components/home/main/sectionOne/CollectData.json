@@ -1,0 +1,32 @@
+[
+    {
+        "img":"./images/collection-01.png",
+        "title":"Mutant Bored Ape Yacht Club",
+        "p":"Items In Collection:",
+        "number":"310/340",
+        "categ":"Category:",
+        "name":"Digital Crypto",
+        "btn":"Explore Mutant",
+        "id":1
+    },
+    {
+        "img":"./images/collection-01.png",
+        "title":"Bored Ape Kennel Club",
+        "p":"Items In Collection:",
+        "number":"324/324",
+        "categ":"Category:",
+        "name":"Visual Art",
+        "btn":"Explore Bored Ape",
+        "id":2
+    },
+    {
+        "img":"./images/collection-01.png",
+        "title":"Genesis Collective Statue",
+        "p":"Items In Collection:",
+        "number":"380/394",
+        "categ":"Category:",
+        "name":"Music Art",
+        "btn":"Explore Genesis",
+        "id":3
+    }
+]

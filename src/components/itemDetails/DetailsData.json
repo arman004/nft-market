@@ -1,0 +1,68 @@
+{
+    "one": [
+        {
+            "img": "./images/item-details-01.png",
+            "title": "Dolores Haze Westworld Eye",
+            "userLogo": "./images/author-02.png",
+            "nickName": "Liberty Artist",
+            "text": "Lorem ipsum dolor sit amet, consectetu dipiscingei elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "bid": "Current Bid",
+            "ow": "Owner",
+            "end": "Ends In",
+            "eth": "6.06 ETH",
+            "name": "David Walker",
+            "date": "3D 05H 20M 58S",
+            "id": 1
+        }
+    ],
+    "two": [
+        {
+            "img": "./images/current-01.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 2
+        },
+        {
+            "img": "./images/current-02.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 3
+        },
+        {
+            "img": "./images/current-03.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 4
+        },
+        {
+            "img": "./images/current-02.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 5
+        },
+        {
+            "img": "./images/current-04.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 6
+        },
+        {
+            "img": "./images/current-01.png",
+            "name": "David Walker",
+            "nickName": "@davidwalker",
+            "eth": "0.06 ETH",
+            "date": "24/07/2022, 22:00",
+            "id": 7
+        }
+    ]
+}

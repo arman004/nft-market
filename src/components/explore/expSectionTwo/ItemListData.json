@@ -1,0 +1,87 @@
+{
+    "doubleItem":[
+        {
+            "name":"Double Item",
+            "img1":"./images/discover-01.png",
+            "img2":"./images/discover-02.png",
+            "title1":"Mutant Ape Bored",
+            "title2":"His Other Half",
+            "bid":"Current Bid:",
+            "eth":"8.16 ETH",
+            "categ":"Category:",
+            "art":"Digital Art",
+            "collect":"Collection::",
+            "num":"2/2",
+            "end":"Ends In:",
+            "date":"25th Nov",
+            "btn":"View Details",
+            "id":1
+        }
+    ],
+
+    "otherItems":[
+        {
+            "img":"./images/discover-03.png",
+            "title":"Genesis Meta Boom",
+            "bid":"Current Bid:",
+            "eth":"5.15 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":2
+            
+        },
+        {
+            "img":"./images/discover-04.png",
+            "title":"Another Half Ape",
+            "bid":"Current Bid:",
+            "eth":"3.63 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":3
+        },
+        {
+            "img":"./images/discover-03.png",
+            "title":"Pixel Sand Box",
+            "bid":"Current Bid:",
+            "eth":"4.63 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":4
+        },
+        {
+            "img":"./images/discover-04.png",
+            "title":"Another Half Ape",
+            "bid":"Current Bid:",
+            "eth":"2.03 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":5
+        },
+        {
+            "img":"./images/discover-01.png",
+            "title":"Invisible NFT Land",
+            "bid":"Current Bid:",
+            "eth":"2.03 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":6
+            
+        },
+        {
+            "img":"./images/discover-02.png",
+            "title":"Another Half Ape",
+            "bid":"Current Bid:",
+            "eth":"2.64 ETH",
+            "end":"Ends In:",
+            "date":"26th Nov",
+            "btn":"View Details",
+            "id":7
+        }
+    ]
+    
+}

@@ -1,0 +1,105 @@
+.author-three{
+    background-image: url('./images/heading-bg.jpg');
+    height: 609px;
+}
+.author-background{
+    background-image: url('./images/dark-bg.jpg');
+    color: white;
+    height: 1181px;
+
+}
+
+.author-info{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 120px;
+}
+.author-div-one{
+    display: flex;
+    gap: 30px;
+}
+.author-div-two{
+    width: 536px;
+    height: 170px;
+    background-color: #282B2F;
+    border: 1px solid #404245;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.author-div-three{
+        display: flex;
+        gap: 146px;
+        span{
+            color: #7453FC;
+        }
+}
+.author-div-four{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    h3{
+        color: #AFAFAF;
+    }
+    button{
+        width: 266px;
+        height: 47px;
+        background-color: #7453FC;
+        color: white;
+        border-style: none;
+        border-radius: 25px;
+        &:hover{
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }
+    }
+}
+.author-items{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 81px;
+}
+.a-items-one{
+    width: 306px;
+    height: 451px;
+    background-color: #282B2F;
+    border: 1px solid #404245;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    button{
+        width: 145px;
+        height: 47px;
+        background-color: #7453FC;
+        color: white;
+        border-radius: 25px;
+        border-style: none;
+        &:hover{
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }
+    }
+    hr{
+        width: 244px;
+    }
+    .a-items-two{
+        display: flex;
+        gap: 50px;
+        
+    }
+}
+.author-title{
+    margin-top: 112px;
+    margin-left: 108px;
+    span{
+        color: #7453FC;
+    }
+}

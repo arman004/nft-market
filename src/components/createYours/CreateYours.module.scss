@@ -1,0 +1,146 @@
+.form-section{
+    background-image: url('./images/dark-bg.jpg');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 800px;
+}
+
+.reg-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1200px;
+    height: 430px;
+    background-color: #37393C;
+    gap: 60px;
+    justify-content: center;
+    border-radius: 20px;
+    margin-top: 121px;
+}
+.inp-one{
+    display: flex;
+    gap: 30px;
+    input{
+        width: 300px;
+        height: 40px;
+        border-radius: 23px;
+        background-color: #282B2F;
+        border: 1px solid #404245;
+        color: #AFAFAF;
+        text-align: center;
+    }
+}
+.inp-two{
+    display: flex;
+    gap: 30px;
+    input{
+        width: 470px;
+        height: 40px;
+        border-radius: 23px;
+        background-color: #282B2F;
+        border: 1px solid #404245;
+        color: #AFAFAF;
+        text-align: center;
+    }
+}
+.inp-three{
+    display: flex;
+    gap: 205px;
+    button{
+        width: 525px;
+        height: 47px;
+        border-radius: 25px;
+        border-style: none;
+        background-color: #7453FC;
+        color: white;
+        &:hover{
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }   
+    }
+}
+
+.span-div{
+    padding-top: 120px;
+    h1{
+        font-size: 30px;
+    }
+    span{
+        color: #7453FC;
+    }
+}
+.create-div-one{
+    display: flex;
+    gap: 30px;
+    padding-top: 81px;
+}
+.create-div-two{
+    display: flex;
+    gap: 15px;
+}
+
+.create-div-three{
+    display: flex;
+    gap: 30px;
+    h2{
+        color: #7453FC;
+    }
+    h4{
+        color: #AFAFAF;
+    }
+}
+.create-div-four{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7px;
+}
+.text-lorem{
+    width: 428px;
+}
+.preview-title{
+    padding-top: 120px;
+    span{
+        color: #7453FC;
+    }
+    h1{
+        font-size: 30px;
+    }
+}
+.blog-divs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+    padding-top: 120px;
+    div{
+        width: 400px;
+        height: 300px;
+        background-color: #282B2F;
+        border: 1px solid #404245;
+        border-radius: 20px;
+    }
+    img{
+        width: 300px;
+        height: 200px;
+    }
+    button{
+        width: 145px;
+        height: 47px;
+        background-color: #7453FC;
+        border-radius: 25px;
+        border-style: none;
+        color: white;
+        &:hover{
+            cursor: pointer;
+            color: #7453FC;
+            background-color: white;
+            transition: 0.3s;
+        }
+    }
+}

@@ -1,0 +1,179 @@
+.exp-section-one {
+    background-image: url('./expSectionOne/images/main-bg.jpg');
+    height: 800px;
+}
+
+.exp-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+
+    span {
+        color: silver;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
+
+.exp-img {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.exp-section-two {
+    background-image: url('./expSectionTwo/images/dark-bg.jpg');
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-top: 100px;
+
+    .item-title {
+        h1 {
+            font-size: 30px;
+        }
+
+        span {
+            color: #7453FC;
+        }
+    }
+
+}
+
+.db-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #282B2F;
+    border: 1px solid #404245;
+    border-radius: 20px;
+    width: 630px;
+    height: 500px;
+    .db-title{
+        background-color: #7453FC;
+        width: 111px;
+        height: 23px;
+        border-radius: 16px;
+        text-align: center;
+    }
+    button{
+        width: 145px;
+        height: 47px;
+        border-radius: 25px;
+        border-style: none;
+        background-color: #7453FC;
+        color: white;
+        font-size: 14px;
+        &:hover{
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }
+    }
+
+    hr {
+        width: 570px;
+    }
+}
+
+.item-img {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.item-info {
+    display: flex;
+    gap: 65px;
+}
+
+.all-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 80px;
+}
+
+.other-item {
+    background-color: #282B2F;
+    border: 1px solid #404245;
+    border-radius: 20px;
+    width: 306px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7px;
+    button{
+        width: 145px;
+        height: 47px;
+        border-radius: 25px;
+        border-style: none;
+        background-color: #7453FC;
+        color: white;
+        font-size: 14px;
+        &:hover{
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }
+    }
+    hr {
+        width: 244px;
+    }
+
+    img {
+        padding-top: 40px;
+    }
+}
+
+.crypto-info {
+    display: flex;
+    gap: 50px;
+}
+
+.exp-section-three{
+    background-image: url('./expSectionThree/images/main-bg.jpg');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 670px;
+    background-size: cover;
+}
+.user-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
+.head-user{
+    width: 100%;
+}
+.parent-users{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 71px;
+
+}
+.child-users{
+    display: flex;
+    justify-content: space-evenly;
+}
+.users{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "img":"./images/market-01.png",
+        "title":"Music Art Super Item",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"2.03 ETH",
+        "cash":"($8,240.50)",
+        "time":"4D 08H 15M 42S",
+        "date":"(July 24th,2022)",
+        "link":"View Item Details"
+    },
+    {
+        "img":"./images/market-01.png",
+        "title":"Digital Crypto Artwork",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"2.03 ETH",
+        "cash":"($8,240.50)",
+        "time":"2D 06H 30M 25S",
+        "date":"(July 26th,2022)",
+        "link":"View Item Details"
+    },
+    {
+        "img":"./images/market-01.png",
+        "title":"Blockchain Item One",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"3.64 ETH",
+        "cash":"($6,600.00)",
+        "time":"6D 08H 40M 50S",
+        "date":"(July 28    th,2022)",
+        "link":"View Item Details"
+    },
+    {
+        "img":"./images/market-01.png",
+        "title":"Virtual Currency Art",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"2.44 ETH",
+        "cash":"($8,800.50)",
+        "time":"3D 05H 20M 58S",
+        "date":"(July 14th,2022)",
+        "link":"View Item Details"
+    },
+    {
+        "img":"./images/market-01.png",
+        "title":"Digital Art Item",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"2.50 ETH",
+        "cash":"($8,400.50)",
+        "time":"4D 08H 32M 18S",
+        "date":"(July 16th,2022)",
+        "link":"View Item Details"
+    },
+    {
+        "img":"./images/market-01.png",
+        "title":"Blockchain Music Design",
+        "user":"./images/author.png",
+        "name":"Liberty Artist",
+        "nickName":"@libertyart",
+        "bid":"Current Bid",
+        "eth":"2.44 ETH",
+        "cash":"($8,200.50)",
+        "time":"5D 10H 22M 24S",
+        "date":"(July 18th,2022)",
+        "link":"View Item Details"
+    }
+]

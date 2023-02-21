@@ -1,0 +1,20 @@
+[
+    {
+        "img":"./images/digital.png",
+        "title":"Set Up Your Wallet",
+        "text":"NFT means Non-Fungible Token that are used in digital cryptocurrency markets. There are many different kinds of NFTs in the industry.",
+        "id":1
+    },
+    {
+        "img":"./images/virtual.png",
+        "title":"Add Your Digital NFT",
+        "text":"There are 5 different HTML pages included in this NFT website template. You can edit or modify any section on any page as you required.",
+        "id":2
+    },
+    {
+        "img":"./images/nft.png",
+        "title":"Sell Your NFT & Make Profit",
+        "text":"If you would like to support our TemplateMo website, please visit our contact page to make a PayPal contribution. Thank you.",
+        "id":3
+    }
+]

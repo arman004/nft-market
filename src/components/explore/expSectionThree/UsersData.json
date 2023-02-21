@@ -1,0 +1,94 @@
+{
+    "one": [
+        {
+            "num": "1.",
+            "img": "./images/author.png",
+            "name": "NFT Top Artist",
+            "eth": "8.6 ETH or $12.000",
+            "id": 1
+        },
+        {
+            "num": "4.",
+            "img": "./images/author.png",
+            "name": "Liberty Artist",
+            "eth": "8.6 ETH or $12.000",
+            "id": 2
+        },
+        {
+            "num": "7.",
+            "img": "./images/author.png",
+            "name": "Liberty Artist",
+            "eth": "8.6 ETH or $12.000",
+            "id": 3
+        },
+        {
+            "num": "10.",
+            "img": "./images/author.png",
+            "name": "Liberty Artist",
+            "eth": "8.6 ETH or $12.000",
+            "id": 4
+        }
+    ],
+
+    "two":[
+        {
+            "num": "2.",
+            "img": "./images/author-02.png",
+            "name": "George Brandon",
+            "eth": "4.8 ETH or $14.000",
+            "id": 5
+        },
+        {
+            "num": "5.",
+            "img": "./images/author-02.png",
+            "name": "Ronald Martino",
+            "eth": "4.8 ETH or $14.500",
+            "id": 6
+        },
+        {
+            "num": "8.",
+            "img": "./images/author-02.png",
+            "name": "Ronald Martino",
+            "eth": "6.5 ETH or $15.000",
+            "id": 7
+        },
+        {
+            "num": "11.",
+            "img": "./images/author-02.png",
+            "name": "Anthony Brown",
+            "eth": "7.5 ETH or $15.400",
+            "id": 8
+        }
+    ],
+
+    "three":[
+        {
+            "num": "3.",
+            "img": "./images/author-03.png",
+            "name": "Johnny Mayson",
+            "eth": "7.5 ETH or $15.400",
+            "id": 9
+        },
+        {
+            "num": "6.",
+            "img": "./images/author-03.png",
+            "name": "Anthony Brown",
+            "eth": "7.5 ETH or $15.400",
+            "id": 10
+        },
+        {
+            "num": "9.",
+            "img": "./images/author-03.png",
+            "name": "David Walker",
+            "eth": "7.5 ETH or $15.400",
+            "id": 11
+        },
+        {
+            "num": "12.",
+            "img": "./images/author-03.png",
+            "name": "David Walker",
+            "eth": "7.5 ETH or $15.400",
+            "id": 12
+        }
+    ]
+}

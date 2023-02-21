@@ -1,0 +1,151 @@
+.one-header {
+    background-image: url('./images/banner-bg.jpg');
+    width: 100%;
+    height: 905px;
+}
+
+.nav-section {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 70%;
+    height: 96px;
+    border-radius: 50px;
+
+    ul {
+        display: flex;
+        gap: 51px;
+
+        li {
+            list-style: none;
+            border-radius: 18px;
+            width: 95px;
+            height: 37px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            &:hover {
+                background-color: #7453FC;
+                color: white;
+                transition: 0.3s;
+
+                a {
+                    color: white;
+                }
+            }
+
+           
+
+            
+        }
+    }
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.info-section {
+    width: 620px;
+    color: white;
+}
+
+.info-btn {
+    display: flex;
+    gap: 40px;
+
+    .btn-one {
+        background-color: #7453fc05;
+        border-radius: 25px;
+        border: 1px solid #7453FC;
+        width: 182px;
+        height: 47px;
+        font-size: 14px;
+        color: white;
+
+        &:hover {
+            cursor: pointer;
+            background-color: #7453FC;
+            transition: 0.3s;
+        }
+
+    }
+
+    .btn-two {
+        background-color: #7453FC;
+        border-style: none;
+        border-radius: 25px;
+        width: 182px;
+        height: 47px;
+        font-size: 14px;
+        color: white;
+
+        &:hover {
+            cursor: pointer;
+            background-color: white;
+            color: #7453FC;
+            transition: 0.3s;
+        }
+    }
+}
+
+.head-section {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 124px;
+    align-items: center;
+}
+
+.two-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+
+    .nav-two {
+        display: flex;
+        gap: 50px;
+
+        li {
+            list-style: none;
+            border-radius: 18px;
+            width: 95px;
+            height: 37px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            &:hover {
+                background-color: #7453FC;
+                color: white;
+                transition: 0.3s;
+
+                a {
+                    color: white;
+                }
+            }
+
+           
+        }
+    }
+}
+
+.actived {
+    background-color: #7453FC;
+    border-radius: 18px;
+    width: 95px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+}
